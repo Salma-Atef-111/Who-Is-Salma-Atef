@@ -54,7 +54,7 @@ I once designed a website for a fictional band as a personal project, and it end
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [LinkedIn Profile]([link-to-profile](https://www.linkedin.com/in/salma-atef-317653219/))
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/salma-atef-317653219/)
 - **Email**: [salma.atef20222@gmail.com](mailto:salma.atef20222@gmail.com)
 
 I’m always open to collaborations and new opportunities, so feel free to reach out!
