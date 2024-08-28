@@ -27,11 +27,11 @@ I am committed to staying at the forefront of web technologies to deliver innova
 
 ## 🌟 Projects
 
-- **[Calculator Program]([link-to-project](https://github.com/Salma-Atef-111/Calculator-program)**: A versatile calculator application with various functionalities.
-- **[Musik Project]([link-to-project](https://github.com/Salma-Atef-111/Musik-project)**: Designed and developed a music-related site.
-- **[Stopwatch]([link-to-project](https://github.com/Salma-Atef-111/Stopwatch)**: A stopwatch application with accurate time tracking.
-- **[Digital Clock]([link-to-project](https://github.com/Salma-Atef-111/Digital-Clock)**: A digital clock with responsive design and blur effect.
-- **[Dice Roller]([link-to-project](https://github.com/Salma-Atef-111/Dice-Roller)**: A simple dice-rolling game that displays random results.
+- **[Calculator Program] [link-to-project](https://github.com/Salma-Atef-111/Calculator-program)**: A versatile calculator application with various functionalities.
+- **[Musik Project] [link-to-project](https://github.com/Salma-Atef-111/Musik-project)**: Designed and developed a music-related site.
+- **[Stopwatch] [link-to-project](https://github.com/Salma-Atef-111/Stopwatch)**: A stopwatch application with accurate time tracking.
+- **[Digital Clock] [link-to-project](https://github.com/Salma-Atef-111/Digital-Clock)**: A digital clock with responsive design and blur effect.
+- **[Dice Roller] [link-to-project](https://github.com/Salma-Atef-111/Dice-Roller)**: A simple dice-rolling game that displays random results.
 - **[Brand Project] [link-to-project](https://github.com/Salma-Atef-111/Brand-project)**: A branding project showcasing design and development skills.
 
 ## 📚 Trainings
