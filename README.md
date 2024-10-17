@@ -15,6 +15,8 @@ I am committed to staying at the forefront of web technologies to deliver innova
   - CSS
   - JavaScript
   - Bootstrap
+  - React.js
+  - Git & GitHub
 
 - **Personal Skills:**
   - Management
